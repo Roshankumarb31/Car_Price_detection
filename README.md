@@ -2,7 +2,7 @@
 Predicts the price of car using it's spec.
 
 
-The speci-->feid variables are as follows:
+The specifeid variables are as follows:
 --> fueltype	<br>
 --> aspiration	<br>
 --> doornumber<br>
@@ -32,8 +32,14 @@ The speci-->feid variables are as follows:
 From the above tags....The useful variables were chosen.<br>
 The car price was predicted with various models and their accuracies were compared.<br>
 
-<h2>Models Used</h2>
-["Linear Regression","Decision Tree","Random Forest","Ada-Boost-Regressor","Gradient Boost","XGBoost"
+<h1>Models Used</h1>
+
+<h2>--> Linear Regression</h2>
+<h2>--> Decision Tree</h2>
+<h2>--> Random Forest</h2>
+<h2>--> Ada Boost Regressor</h2>
+<h2>--> Gradient Boost</h2>
+<h2>--> XGBoost</h2>
 
 ![image](https://github.com/Roshankumarb31/Car_Price_detection/assets/118297543/0334f7c3-4ef7-4624-88d6-7e09bee79ec5)
 
