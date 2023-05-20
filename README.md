@@ -20,8 +20,14 @@ The speci-->feid variables are as follows:
 -->	fuelsystem<br>
 -->	boreratio<br>
 -->	stroke<br>
--->	compressionration<br>
+-->	compressionratio<br>
 -->	horsepower<br>
 -->	peakrpm<br>
 -->	citympg<br>
 -->	highwaympg<br>
+
+
+#Concept
+
+From the above tags....The useful variables were chosen.<br>
+The car price was predicted with various models and their accuracies were compared
