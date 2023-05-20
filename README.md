@@ -25,12 +25,26 @@ The specifeid variables are as follows:
 -->	peakrpm<br>
 -->	citympg<br>
 -->	highwaympg<br>
+
+
 <hr>
 
 <h1>Concept</h1>
 
 From the above tags....The useful variables were chosen.<br>
 The car price was predicted with various models and their accuracies were compared.<br>
+
+<hr>
+
+<h1>Visualization</h1>
+
+All the individual correlations and groupes correlations are done by
+
+-->	MATPLOTLIB<br>
+-->	SEABORN<br>
+
+<hr>
+
 
 <h1>Models Used</h1>
 
@@ -41,5 +55,13 @@ The car price was predicted with various models and their accuracies were compar
 <h2>--> Gradient Boost</h2>
 <h2>--> XGBoost</h2>
 
+<hr>
+
+<h1>Model Accuracy Comparison</h1>
+
 ![image](https://github.com/Roshankumarb31/Car_Price_detection/assets/118297543/0334f7c3-4ef7-4624-88d6-7e09bee79ec5)
 
+<hr>
+
+<h2>NOTE :</h2>
+Further implementations of models will be done.
