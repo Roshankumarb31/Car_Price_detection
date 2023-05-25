@@ -1,16 +1,16 @@
 numpy 
 pandas
-matplotlib.pyplot
-scipy ==> stats
+matplotlib                 ==> pyplot
+scipy                      ==> stats
 seaborn
 pylab
 warnings
-sklearn.linear_model ==> LinearRegression
-sklearn.tree i==> DecisionTreeRegressor
-sklearn.ensemble ==> RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor
-sklearn.neighbors ==> KNeighborsClassifier
-sklearn.metrics ==> accuracy_score
-xgboost ==> XGBRegressor
-sklearn.model_selection ==> train_test_split
-sklearn.metrics ==> r2_score
-sklearn.preprocessing ==> StandardScaler
+sklearn.linear_model       ==> LinearRegression
+sklearn.tree               ==> DecisionTreeRegressor
+sklearn.ensemble           ==> RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor
+sklearn.neighbors          ==> KNeighborsClassifier
+sklearn.metrics            ==> accuracy_score
+xgboost                    ==> XGBRegressor
+sklearn.model_selection    ==> train_test_split
+sklearn.metrics            ==> r2_score
+sklearn.preprocessing      ==> StandardScaler
